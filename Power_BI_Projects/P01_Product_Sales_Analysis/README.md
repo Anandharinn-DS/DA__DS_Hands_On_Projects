@@ -39,18 +39,16 @@ The final Power BI report enables users to interactively explore sales performan
 
 ## 📁 Folder Structure
 
-P01_Product_Sales_Analysis/
-│── AdventureWorks_Raw_Data_Sets/     ← raw source files
-│── AdventureWorks_PBIX_Files/        ← Power BI Desktop files
-│── AdventureWorks_Images/            ← screenshots and visuals
-│── docs/                             ← documentation
-│── reports/                          ← exported report previews
-└── README.md
+<img width="580" height="191" alt="image" src="https://github.com/user-attachments/assets/9a2679bd-1ae3-4aba-b0bf-ae606e2ac59a" />
 
 ## Outcome:
 
 <p align="center">
-  <img src="images/executive_dashboard.png" alt="Executive Dashboard" width="900"/>
+  <img 
+    src="https://github.com/user-attachments/assets/265e18dd-fab9-43cb-940f-5bb5b2923900" 
+    alt="Power BI Executive Dashboard"
+    width="900"
+  />
 </p>
 
 ### End of the Project
